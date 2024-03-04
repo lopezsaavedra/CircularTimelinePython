@@ -1,0 +1,73 @@
+author,value,group,barcolors
+Ranjit and Darlington 2007,50,confinement stress,m
+Ranjith and Viete 2011,50,confinement stress,m
+"Chen, et al. 2015",50,confinement stress,m
+"Zhou, et al. 2015",50,confinement stress,m
+"Chen, et al. 2019",50,confinement stress,m
+Huo and Benson 2016,100,effective stress,gold
+"Phillips, et al. 2021",50,effective stress,gold
+Lomize 1951,50,fixed apertures,green
+Huitt 1956,50,fixed apertures,green
+Parrish 1963,50,fixed apertures,green
+Romm 1966,50,fixed apertures,green
+Louis 1967,50,fixed apertures,green
+"Fourar, et al. 1993",100,fixed apertures,green
+Pieters and Graves 1994,100,fixed apertures,green
+Persoff and Pruess 1995,100,fixed apertures,green
+"Pan, Wong and Maini 1996",100,fixed apertures,green
+"Detwiler, Pringle and Glass 1999",50,fixed apertures,green
+"Nicholl, et al. 1999",50,fixed apertures,green
+"Diomampo, et al. 2001",100,fixed apertures,green
+"Isakov, et al. 2001",50,fixed apertures,green
+"Bertels, DiCarlo and Blunt 2001",100,fixed apertures,green
+"Chen, Horne and Fourar 2004",100,fixed apertures,green
+Konzuk and Kueper 2004,50,fixed apertures,green
+Chen and Horne 2006,100,fixed apertures,green
+"Speyer, Li and Horne 2007",100,fixed apertures,green
+"Nowamooz, Radilla and Fourar 2009",100,fixed apertures,green
+"Radilla, Nowamooz and Fourar 2013",100,fixed apertures,green
+"Alturki, Maini and Gates 2013",100,fixed apertures,green
+"Kishida, et al. 2013",50,fixed apertures,green
+"Lee, Lee and Yeo 2014",50,fixed apertures,green
+"Chen, et al. 2017",100,fixed apertures,green
+"Chen, et al. 2018",100,fixed apertures,green
+"Li, et al. 2018",50,fixed apertures,green
+"Xie, et al. 2020",50,fixed apertures,green
+"Yin, et al. 2020",50,fixed apertures,green
+"Cunningham, et al. 2020",50,fixed apertures,green
+Zhang et al. 2023,100,fixed apertures,green
+"Babadagli, et al. 2015",100,flexible material,deepskyblue
+"Witherspoon, et al. 1980",50,normal stress,blue
+Reitsma and Kueper 1994,100,normal stress,blue
+Develi and Babadagli 2015,50,normal stress,blue
+Barton 1972,25,fracture mechanics,peru
+Barton and Choubey 1977,25,fracture mechanics,peru
+"Bandis, Lumsden and Barton 1983",25,fracture mechanics,peru
+"Boulon, et al. 1993",50,normal stress & shear displacement,skyblue
+"Yeo, de Freitas and Zimmerman 1998",50,normal stress & shear displacement,skyblue
+"Pyrak-Nolte, et al. 1987",50,normal stress & shear stress,navy
+"Esaki, et al. 1991",50,normal stress & shear stress,navy
+Olsson 1992,50,normal stress & shear stress,navy
+Olsson and Brown 1993,50,normal stress & shear stress,navy
+"Gentier, et al. 1997",50,normal stress & shear stress,navy
+"Archambault, et al. 1997",50,normal stress & shear stress,navy
+Kwafniewskil and Wang 1997,50,normal stress & shear stress,navy
+"Esaki, et al. 1999",50,normal stress & shear stress,navy
+"Chen, et al. 2000",50,normal stress & shear stress,navy
+Olsson and Barton 2001,50,normal stress & shear stress,navy
+Hans and Boulon 2003,50,normal stress & shear stress,navy
+"Li, et al. 2008",50,normal stress & shear stress,navy
+"Koyama, et al. 2008",50,normal stress & shear stress,navy
+"Xiong, et al. 2011",50,normal stress & shear stress,navy
+"Giger, et al. 2011",50,normal stress & shear stress,navy
+"Javadi, et al. 2014",50,normal stress & shear stress,navy
+"Yin, et al. 2017",50,normal stress & shear stress,navy
+"Crandall, et al. 2017",50,normal stress & shear stress,navy
+"Sharifzadeh, et al. 2017",50,normal stress & shear stress,navy
+"Mofakham, et al. 2018",50,normal stress & shear stress,navy
+"Fang, et al. 2019",50,normal stress & shear stress,navy
+"Cao, et al. 2019",50,normal stress & shear stress,navy
+"Ishibashi, et al. 2020",50,normal stress & shear stress,navy
+"Auradou, Hulin and Roux 2001",50,shear displacement and normal disp.,cyan
+"Auradou, et al. 2006",50,shear displacement and normal disp.,cyan
+Auradou 2009,50,shear displacement and normal disp.,cyan
