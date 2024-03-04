@@ -1,6 +1,6 @@
-Februray 2024
+February 2024
 
-Two types off circular timelines can be created with these codes:
+Two types of circular timelines can be created with these codes:
 
-1) Circular timeline with literatre review organized per decade.
-2) Circular timeline with literarture review organized per mechanical configuration. 
+1) Circular timeline with literature review organized per decade (pull the corresponding "Time".csv file).
+2) Circular timeline with literature review organized per mechanical configuration (pull the corresponding "MechConfig".csv file). 
